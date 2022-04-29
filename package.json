@@ -5,7 +5,7 @@
   "requires": true,
   "dependencies": {
     "assert": "^1.4.1",
-    "async": "^2.5.0",
+    "async": "^2.6.4",
     "cassandra-driver": "^3.3.0",
     "dateformat": "^3.0.2",
     "long": {
